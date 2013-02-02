@@ -8,8 +8,8 @@
 ---------------------
 réalisée dans le cadre d'un TP SIO/DEV 1er année IMC année 2013
 créé par michael elbaz
-
 */
+
 /* initialisation tableau global de *12X12* */
 int tab[12][12];
 /* init variable de test global */

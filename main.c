@@ -209,7 +209,7 @@ void deplac_grid()
 }
 main()
 {
-    system("title demineur");
+    system("title minesweeper");
     /* init rand with function time */
     srand(time(NULL));
     /* init tab in memory */

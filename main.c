@@ -9,8 +9,6 @@
 réalisée dans le cadre d'un TP SIO/DEV 1er année IMC année 2013
 créé par michael elbaz
 
----- jai choisi plusieur nom de variable different pour mes boucles suite a des bug de
-dévelopement lors de la premiere version bien qu'il s'agisse de fonction différente----
 */
 /* initialisation tableau global de *12X12* */
 int tab[12][12];
